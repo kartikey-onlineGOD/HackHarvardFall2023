@@ -9,7 +9,7 @@ About Diabetic Retinopathy
 Diabetic retinopathy is a serious eye condition that affects individuals with diabetes. It can lead to vision problems and even blindness if left untreated. This single-page website aims to provide a clear and concise explanation of diabetic retinopathy.
 
 ### **Key Components**
-  Retinal AI
+  ### **Retinal AI**
   Retinal AI is the CNN Trained Model that can detect the presence and severity of Diabetic Retinopathy. It forms the heart of our solution, providing accurate and reliable results.
   
   ### **DiaScan**
