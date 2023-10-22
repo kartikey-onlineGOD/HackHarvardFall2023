@@ -1,6 +1,6 @@
 ## EyeSnap: Diabetic Retinopathy Detection with DiaScan - HackHarvardFall2023
 
-**Introduction** \n 
+### **Introduction** 
 
 Welcome to the future of healthcare, where your smartphone becomes your guardian for early diabetes detection. Our innovative solution harnesses the power of artificial intelligence to identify Diabetic Retinopathy right from the convenience of your smartphone. We are on a mission to make early diabetes diagnosis accessible and effortless for everyone.
 
