@@ -16,7 +16,7 @@ Diabetic retinopathy is a serious eye condition that affects individuals with di
   #### **DiaScan**
   DiaScan is a revolutionary 3D printed device that helps us scan the retina using a phone camera. The DiaScan fits around the phone like a case and allows us to take retinal scan photographs, enabling easy and non-invasive detection of diabetic retinopathy.
 
-DiaScan
+(https://github.com/kartikey-onlineGOD/EyeSnap-HackHarvard/blob/main/Assets/image%202.png)
 
 ### **About Us**
 We are a dedicated team of researchers, engineers, and healthcare professionals committed to making early diabetes diagnosis more accessible. Our mission is to leverage technology and artificial intelligence to improve the lives of individuals at risk of diabetic retinopathy.
