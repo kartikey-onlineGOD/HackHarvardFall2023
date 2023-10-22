@@ -12,7 +12,7 @@ Diabetic retinopathy is a serious eye condition that affects individuals with di
 ### **Key Components**
   #### **Retinal AI**
   Retinal AI is the CNN Trained Model that can detect the presence and severity of Diabetic Retinopathy. It forms the heart of our solution, providing accurate and reliable results.
-  
+!(https://github.com/kartikey-onlineGOD/EyeSnap-HackHarvard/blob/main/Assets/image%203.png)
   #### **DiaScan**
   DiaScan is a revolutionary 3D printed device that helps us scan the retina using a phone camera. The DiaScan fits around the phone like a case and allows us to take retinal scan photographs, enabling easy and non-invasive detection of diabetic retinopathy.
 
