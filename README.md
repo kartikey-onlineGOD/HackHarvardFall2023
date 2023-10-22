@@ -21,13 +21,15 @@ Diabetic retinopathy is a serious eye condition that affects individuals with di
 ![](https://github.com/kartikey-onlineGOD/EyeSnap-HackHarvard/blob/main/Assets/image%202.png)
 
 ### **About Us**
-We are a dedicated team of researchers, engineers, and healthcare professionals committed to making early diabetes diagnosis more accessible. Our mission is to leverage technology and artificial intelligence to improve the lives of individuals at risk of diabetic retinopathy.
+Author : Kartikey Pandey
 
-### **How to Use**
-To get started with our solution, simply install our app on your smartphone and attach the DiaScan device. Follow the app's instructions to capture retinal scans, and let Retinal AI work its magic in diagnosing diabetic retinopathy.
+As driven Computer Science student located in Pennsylvania with a strong interest in AI and Full Stack development, I've made notable contributions within the Intel AI4Youth program.As both an apprentice and intern, I've been selected for my dedication, and I've played a crucial role in creating impactful solutions to tackle issues that a global scale. With this new solution I have focused in increase Health Equity and detect diabetes using Retinal Scans in patients. 
 
-We believe in the power of early detection and its potential to transform healthcare. Join us in this journey towards a world where everyone can have easy access to early diabetes diagnosis and treatment.
+I believe in the power of early detection and its potential to transform healthcare. Join me in this journey towards a world where everyone can have easy access to early diabetes diagnosis and treatment.
 
-#Contact Us
+#Contact Us 
+Email: Kartikeypandey.official@gmail.com 
+
+You can connect with me on Linkedin or mail me to further understand SnapEye. 
 
 Together, we can make a difference in the fight against diabetic retinopathy. Your smartphone is now your guardian in the battle for early detection and prevention.
