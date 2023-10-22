@@ -27,7 +27,7 @@ As driven Computer Science student located in Pennsylvania with a strong interes
 
 I believe in the power of early detection and its potential to transform healthcare. Join me in this journey towards a world where everyone can have easy access to early diabetes diagnosis and treatment.
 
-#Contact Us 
+### **Contact Us **
 Email: Kartikeypandey.official@gmail.com 
 
 You can connect with me on Linkedin or mail me to further understand SnapEye. 
